@@ -13,7 +13,7 @@ https://cloud.ibm.com/catalog/services/text-to-speech
 ```
 pip install ibm_watson
 ```
-OBS: caso estiver usando Windows e não estiver funcionando o comando acima, tente fazer [esses passos](https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10)
+- Caso estiver usando Windows e não estiver funcionando o comando acima, tente fazer [esses passos](https://pt.stackoverflow.com/questions/239047/como-instalar-o-pip-no-windows-10)
 
 - Edite o arquivo `converte.py` com a API Key e URL fornecidas após a criação da instância
 
